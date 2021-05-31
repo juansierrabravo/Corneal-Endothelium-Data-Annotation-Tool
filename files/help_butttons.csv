@@ -1,0 +1,10 @@
+save;This button will save the changes made in the file.
+save_as;This button will save the changes made but as a new file.
+zoom;This button allows you to change the size of the image by clicking or moving the mouse scroll on the pixel of interest.
+select_guttae;You can select cells to transform them into guttas. 
+select_cell;You can select guttaes to transform them into cells.
+guttae_seed;You can select a pixel within a guttae, so that the software identifies the area it occupies through the region growing.
+draw_border;You can select two or more points between which a line will be draw.
+draw_pixel;You can select a pixel which will turn black and become part of the edge of the segmentation.
+delete_border;You can select two neighboring cells to eliminate the line that separates them. 
+delete_pixel;You can select a pixel which will turn back to its original state, based on the image without segmentation.
